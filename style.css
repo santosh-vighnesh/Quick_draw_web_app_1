@@ -1,0 +1,45 @@
+body
+{
+    background-color: aqua;
+}
+
+#Score
+{
+    font-size: 32px;
+    float:left;
+    margin-left: 150px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#Timer
+{
+    font-size: 32px;
+    float:right;
+    margin-right: 200px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+h1
+{
+    background-color: rgb(179, 0, 255);
+    color: rgb(204, 255, 0);
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 600;
+}
+
+p
+{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    margin-right: 110px;
+}
+
+#Sketch_drawn
+{
+    color: rgb(176, 39, 39);
+}
